@@ -9,9 +9,9 @@ Welcome to syllas. This page provides help with accounts, sign-in, and basic app
 Creating an account
 
 You can create an account using:
-• Email and password
-• Google Sign-In
-• Apple Sign-In (when available)
+	•	Email and password
+	•	Google Sign-In
+	•	Apple Sign-In (when available)
 
 Make sure you use a valid email address so you can receive important account messages.
 
@@ -20,9 +20,9 @@ Make sure you use a valid email address so you can receive important account mes
 2) I didn’t receive a verification email
 
 If you did not receive a verification or confirmation email:
-• Check your spam or junk folder
-• Wait a few minutes and refresh your inbox
-• Make sure the email address was entered correctly
+	•	Check your spam or junk folder
+	•	Wait a few minutes and refresh your inbox
+	•	Make sure the email address was entered correctly
 
 ⸻
 
@@ -39,8 +39,8 @@ To reset your password:
 4) My account already exists
 
 If you previously signed in with Google or Apple:
-• Use the same sign-in method again
-• Do not create a duplicate account
+	•	Use the same sign-in method again
+	•	Do not create a duplicate account
 
 ⸻
 
@@ -49,45 +49,66 @@ If you previously signed in with Google or Apple:
 Uploading notes
 
 You may upload images of handwritten or printed notes.
+
 For best results:
-• Use clear images
-• Ensure good lighting
-• Avoid blurry or cropped photos
+	•	Use clear images
+	•	Ensure good lighting
+	•	Avoid blurry or cropped photos
 
 ⸻
 
-5) Organizing notes
-
-• syllas organizes notes only when you press the “Organize notes” button
-• No automatic processing occurs without user action
+6) Organizing notes
+	•	syllas organizes notes only when you press the “Organize notes” button
+	•	No automatic processing occurs without user action
 
 ⸻
 
-6) Data & Privacy
+7) Data & Privacy
 
 syllas processes user content only to provide requested features.
+
 For more information, please review our Privacy Policy.
 
 ⸻
 
-7) Supported Platforms
-
-• Web
-• Android (coming soon)
-• iOS (coming soon)
+8) Supported Platforms
+	•	Web
+	•	Android (coming soon)
+	•	iOS (coming soon)
 
 ⸻
 
-8) Contact & Support
+9) Account Deletion
+
+Users may request deletion of their Syllas account and associated data at any time.
+
+Accounts can be deleted directly within the app through the account settings page.
+
+If a user is unable to access the app, they may request account deletion by contacting us at:
+
+📧 support@syllas.ai
+
+In your request, please include the email address associated with your Syllas account.
+
+Once verified, we will permanently delete:
+	•	Account information
+	•	Authentication credentials
+	•	User-generated content (such as chats and prompts)
+
+Some data may be retained if required by law or for security purposes.
+
+⸻
+
+10) Contact & Support
 
 If you need help or experience an issue, contact us at:
 
-support@syllas.app
+📧 support@syllas.app
 
 Please include:
-• Your account email
-• A short description of the issue
-• Screenshots if applicable
+	•	Your account email
+	•	A short description of the issue
+	•	Screenshots if applicable
 
 ⸻
 
